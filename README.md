@@ -1,5 +1,6 @@
-## Welcome to my profile
+## Introduction to Information Technology
 
+### Assignment 1: My Profile
 This is my assignment 1 for Introduction to Information Technology, in which i have to create a profile on a website using Github.
 
 I will be covering my personal information about myself, my interest in IT, my ideal job, my personal profile and any project ideas i have in the future.
