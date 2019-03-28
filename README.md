@@ -1,37 +1,20 @@
 ## Welcome to my profile
 
-You can use the [editor on GitHub](https://github.com/s3780272/MyProfile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my assignment 1 for Introduction to Information Technology, in which i have to create a profile on a website using Github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will be covering my personal information about myself, my interest in IT, my ideal job, my personal profile and any project ideas i have in the future.
 
-### Markdown
+### 1.Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My full name is Jacky Chuong, I was born on 21 of August, 2000 in Australia where i have lived all my life. I have orientated (chinese/vietnamese mix) nationality and while I don't follow any religion, I do my best to inherit any tradition in my culture. I come from a family of six, two brothers and 1 sister, with me being the third oldest. An interesting fact I also have a identical twin, Vincent, who was born thirty minutes after me. 
 
-```markdown
-Syntax highlighted code block
+Right now, I have graduated from highschool and now attend to royal Melbourne Institute of Technology (RMIT) where i study Computer Studies. my student number is S3780272 and my email is s3780272@student.rmit.edu.au if you ever want to get in contact me me.
 
-# Header 1
-## Header 2
-### Header 3
+### 2.Interest in IT
 
-- Bulleted
-- List
+● What is your interest in IT?  When did your interest in IT start?  as there a particularevent or person that sparked your interest?Outline your IT experience (if any).
 
-1. Numbered
-2. List
+My interest for IT started when i was very young, (around 6-7) when my family first purchase a computer for my oldest brother. Although we had only used it for games, i was fascinated by how through pixels and coding was able to keep me entertained for hours.
+● Why did you choose to come to RMIT?
+● What do you expect to learn during your studies?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3780272/MyProfile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
