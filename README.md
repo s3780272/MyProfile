@@ -51,15 +51,18 @@ How i will be obtaining those requirements is first to complete my bachelor degr
 ![](images/mtbi.PNG)
 
 ● What do the results of these tests mean for you?
+
 From these results, it tells me that i'm a introvert, logical and practical person whos a visual learner. In the Big five test, the results displays me as a person who uses logical and rational thinking to solve everyday problems. In the learning style, it presents me as a visual learner that learns better through seeing things. Lastly, MBTI test depicts me as a "person who explores with their hands and eyes", as a person who ain't afraid to create/start something new.
 
 ● How do you think these results may influence your behaviour in a team?
+
 From the result of those three test, it shows that i will use a more logical approach rather than a emotional approach when discussing problems/issues. The result also says that I need "personal space", that is being comfortable and contributing in a group while also having time for myself. the result also displays that i may "act too soon" meaning i will go over the top, such as 'suddenly change their plans because something more interesting came up'.
 
 ● How should you take this into account when forming a team?
+
 What i should take account when forming a team is to watch my actions. While it is important to talk to my team about our project, i would need to focus only on the plan and try not to make things diffcult or suddenly change it. I would also have to watch out of my emotion in case it gets in the way off our work and i would also make the effort to communicate and offer help to my team whenever i'm available.
 
-### 5 .Personal Profile
+### 5.Project plan
 
 
 Reference
