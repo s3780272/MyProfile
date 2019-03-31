@@ -43,3 +43,13 @@ Currently, I do not have a bachelor's degree in computer science, but once I hav
 How i will be obtaining those requirements is first to complete my bachelor degree of computer studies. Secondly i will learn more web technologies such as HTTP and CSS while also improving my knowledge for HTML and Javascript. Lastly I can learn japanese and improve my customer skills in the process.
 
 ### 4.Personal Profile
+
+![](images/Big%20Five%20test.PNG)
+###                       Big Five Test
+
+![](images/images/mtbi.PNG)
+###                       MTBI Test
+
+![](images/learning%20styles.PNG)
+###                       Learning Styles Test
+
