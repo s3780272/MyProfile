@@ -109,9 +109,15 @@ Some sofware that AI will need to run are, **language proccessor**, this allows 
 
 **Skills Required**
 
-some skills required are:
--source code languages: to be able to code out how the AI will act and respond to certain response/action
--
+Some skills required are:
+-Source Code Languages: to be able to code out how the AI will act and respond to certain response/action
+-Biometric: This will be able to tracks the user's behaviour and can learn from it, allowing the AI to grow.
+these skills are essential to creating a AI, however it will take a lengthy time to learn the language while also implementing the language into to the AI. This will be a difficult task as it will require more than one person to code the AI, as there is more than one field to focus on (communication, data storage, presenting information, third-party programs, gathering data, etc)
 
-Reference
+**Outcome**
+
+If this project becomes successful, it will not only make me rich but also make people lives better, by making their daily routine easier. This will impact nearly everyone as not only can it be used for personal but also for business, as this AI could listening to music to gathering information about their client's request. This project will take a long time to prepare and create, but if it works out, the impact will be enormous, changing lives for the better. 
+
+### Reference
+
 16Personalities. (2019). ISTP Personality (“The Virtuoso”) | 16Personalities. [online] Available at: https://www.16personalities.com/istp-personality [Accessed 29 Mar. 2019].
