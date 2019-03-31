@@ -28,7 +28,9 @@ What i expect to learn throughout my time is a variety of coding and language th
 In introduction to programming, I expect to learn the different coding structures and language and shortcuts i can use to help create my very own program. For database concept, I want to learn about the relational model and SQL language. for computer systems, I am learning the binary, decimal, octal and hexadecmial language while also learning about the logic circuit. Finally for information techonolgy, i am learning and improving my knowledge on IT and my group skills with others.
 
 ### 3.Ideal Job
-https://careers.google.com/jobs/results/123864525557375686-cloud-engineering-university-graduate-english-japanese/?_ga=2.221673432.1536384865.1552610052-1852460904.1552610052&company=Google&company=YouTube&jex=ENTRY_LEVEL
+![](website.PNG)
+
+[[https://careers.google.com/jobs/results/123864525557375686-cloud-engineering-university-graduate-english-japanese/?_ga=2.221673432.1536384865.1552610052-1852460904.1552610052&company=Google&company=YouTube&jex=ENTRY_LEVEL]]
 
 My ideal job is to work in Google. in this ideal job, I will be working as a cloud engineer
 
