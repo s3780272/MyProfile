@@ -22,6 +22,7 @@ My interest for IT started when i was very young, (around 6-7) when my family fi
 **● Why did you choose to come to RMIT?**
 
 I choose to come to RMIT because I got accepted to RMIT even though i didn't study very hard for to ATAR, compared to my friends. Although i was planning to get into Computer Science, which had a requirement of a raw score of 25 for maths methods, which was my hardest subject, I did not reach my score and thus, didn't not get into the course, however i did get accepted to Computer studies which i'm glad as when i'd attended to the orientation for computer studies, i heard that computer science will require alot of maths, so luckily i dodge a bullet. :)
+
 **● What do you expect to learn during your studies?*.
 
 What i expect to learn throughout my time is a variety of coding and language that will help increase my knowledge for IT. 
