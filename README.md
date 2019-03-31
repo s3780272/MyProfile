@@ -23,7 +23,7 @@ My interest for IT started when i was very young, (around 6-7) when my family fi
 
 I choose to come to RMIT because I got accepted to RMIT even though i didn't study very hard for to ATAR, compared to my friends. Although i was planning to get into Computer Science, which had a requirement of a raw score of 25 for maths methods, which was my hardest subject, I did not reach my score and thus, didn't not get into the course, however i did get accepted to Computer studies which i'm glad as when i'd attended to the orientation for computer studies, i heard that computer science will require alot of maths, so luckily i dodge a bullet. :)
 
-**● What do you expect to learn during your studies?*.
+**● What do you expect to learn during your studies?**
 
 What i expect to learn throughout my time is a variety of coding and language that will help increase my knowledge for IT. 
 In introduction to programming, I expect to learn the different coding structures and language and shortcuts i can use to help create my very own program. For database concept, I want to learn about the relational model and SQL language. for computer systems, I am learning the binary, decimal, octal and hexadecmial language while also learning about the logic circuit. Finally for information techonolgy, i am learning and improving my knowledge on IT and my group skills with others.
@@ -51,20 +51,67 @@ How i will be obtaining those requirements is first to complete my bachelor degr
 
 ![](images/mtbi.PNG)
 
-● What do the results of these tests mean for you?
+**● What do the results of these tests mean for you?**
 
 From these results, it tells me that i'm a introvert, logical and practical person whos a visual learner. In the Big five test, the results displays me as a person who uses logical and rational thinking to solve everyday problems. In the learning style, it presents me as a visual learner that learns better through seeing things. Lastly, MBTI test depicts me as a "person who explores with their hands and eyes", as a person who ain't afraid to create/start something new.
 
-● How do you think these results may influence your behaviour in a team?
+**● How do you think these results may influence your behaviour in a team?**
 
 From the result of those three test, it shows that i will use a more logical approach rather than a emotional approach when discussing problems/issues. The result also says that I need "personal space", that is being comfortable and contributing in a group while also having time for myself. the result also displays that i may "act too soon" meaning i will go over the top, such as 'suddenly change their plans because something more interesting came up'.
 
-● How should you take this into account when forming a team?
+**● How should you take this into account when forming a team?**
 
 What i should take account when forming a team is to watch my actions. While it is important to talk to my team about our project, i would need to focus only on the plan and try not to make things diffcult or suddenly change it. I would also have to watch out of my emotion in case it gets in the way off our work and i would also make the effort to communicate and offer help to my team whenever i'm available.
 
 ### 5.Project plan
 
+**Overall**
+
+My ideal project plan is to create my very own personal AI bot that will help in everyday use. While I know there's already artificial bot like Siri for apple or Alexa for Amazon, i wish to create my own AI in which that benefits me and is able to develop and learn throughout time. This AI will able to learn through my past search history, internet history and lifestyle. My AI will also respond to any questions via voice chat, is able to contact anyone through my contact list on my phone and is able to able to list daily needs such as what day it is, the weather, events, etc. 
+
+**Motivation**
+
+The reason i want to create a personal AI is that I want a bot that will grow along side with you. This bot is will be able to learn about you throughout its time, making it easier in your daily life. As technology grows and becomes more relevant , AI will be part of essential lifestyle, and with the creation of AI, it will be able to be with us 24/7, from our homes to our portable devices(phone), that way, if we are ever in trouble, we can use the AI to help us through our problems or contact the right person to do so.
+
+**Description**
+
+This AI will have the latest features and will always be updated throughout time, therefore it doesn't need to by brought again. Some features it will have are:
+
+-**Internet**: This feature will allow the AI to search any article or things that the user has requested. Internet is also the main requirement to connect to a cloud network to save and recieve data. Internet also allows the AI to search anything on the web.
+
+-**Speech recognition**: this feature will allow certain user to use the AI, protecting any information that the AI currently has. The Speech recognition will also allow the user to speak to the AI to search for things rather than typing it on the keyboard, thus saving time.
+
+-**GPS/navigation system**: why this feature is not as important as others, As the AI is portable and is able to transfer to their phone, it will help the user go to their destination quicker while also displaying traffic reports.
+
+-**Satellite connection**: this features allow the AI to connect to the satellite, allowing to boost connection to any main provider in their country. 
+
+-**Deep Learning Space (motherboard)**: this feature is the brain of the AI, as any information is presented to the AI, the AI saves and stores the data into its learning space, searches for the answer and presents it to the user while also learning more about the user.
+
+-**Security and Surveillance**: this feature will allow the user's data and information to be protected by the AI. the AI will have the latest firewall and security, making sure that no threats will harm the user's information or life.
+
+-**24/7 Support**: this feature will allow the user to contact support about their AI or if they are ever in need of emergency, the Ai provides emergency services 24/7 that can be contacted through the AI.
+
+This AI will also provide services for user in their daily lives. These services are not significant but allow a more easier/relaxing lifestyle.
+
+-**Music Streaming Services**: This service will be connected to third party service and will allow user to listen to music either from the AI itself or to connected electronics (T.V, phone, Speakers).
+
+-**Weather**: This will allow user too see the weather for this week, allowing them to prepare for the upcoming days.
+
+-**Social Media Connection**: This service will allow the user to connect to their social media, no matter where they are. This allow the user to post their status anywhere, chat to their friends and family anywhere or just browse their feed.
+
+-**Streaming Service**: This Service will allow the user to watch any streaming services that is offered. this allows the user to watch from their TV to their phone or even on the AI.
+
+**Tools and Technologies**
+
+Hardware that is needed to help run this AI is a **Motherboard**, to receive and save information, **Wifi Connection**, to connect to the information, **Speakers**, to respond to the user if needed, **Screen**, to display any information that the user has requested, **Microphone**, for the user to speak into and **keyboard**, if the user decides to type instead of speaking.
+
+Some sofware that AI will need to run are, **language proccessor**, this allows the AI to understand all language, **Machine learning**, allows the Ai to learn through data and information, **Embedded AI**, this allows the AI to have standard information before learning more through the user. This AI will be run by javascript.
+
+**Skills Required**
+
+some skills required are:
+-source code languages: to be able to code out how the AI will act and respond to certain response/action
+-
 
 Reference
 16Personalities. (2019). ISTP Personality (“The Virtuoso”) | 16Personalities. [online] Available at: https://www.16personalities.com/istp-personality [Accessed 29 Mar. 2019].
