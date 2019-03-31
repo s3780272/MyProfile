@@ -9,6 +9,8 @@ I will be covering my personal information about myself, my interest in IT, my i
 
 ### 1.Personal Information
 
+![](Hyperspace.png)
+
 My full name is Jacky Chuong, I was born on 21 of August, 2000 in Australia where i have lived all my life. I have orientated (chinese/vietnamese mix) nationality and while I don't follow any religion, I do my best to inherit any tradition in my culture. I come from a family of six, two brothers and 1 sister, with me being the third oldest. An interesting fact I also have a identical twin, Vincent, who was born thirty minutes after me. 
 
 Right now, I have graduated from highschool and now attend to royal Melbourne Institute of Technology (RMIT) where i study Computer Studies. my student number is S3780272 and my email is s3780272@student.rmit.edu.au if you ever want to get in contact me me.
