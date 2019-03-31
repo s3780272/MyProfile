@@ -46,7 +46,7 @@ How i will be obtaining those requirements is first to complete my bachelor degr
 
 ![](images/Big%20Five%20test.PNG)
 
-![](images/images/mtbi.PNG)
-
 ![](images/learning%20styles.PNG)
+
+![](images/mtbi.PNG)
 
