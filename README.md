@@ -45,11 +45,8 @@ How i will be obtaining those requirements is first to complete my bachelor degr
 ### 4.Personal Profile
 
 ![](images/Big%20Five%20test.PNG)
-###                       Big Five Test
 
 ![](images/images/mtbi.PNG)
-###                       MTBI Test
 
 ![](images/learning%20styles.PNG)
-###                       Learning Styles Test
 
