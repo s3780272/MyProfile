@@ -32,6 +32,14 @@ In introduction to programming, I expect to learn the different coding structure
 
 [[https://careers.google.com/jobs/results/123864525557375686-cloud-engineering-university-graduate-english-japanese/?_ga=2.221673432.1536384865.1552610052-1852460904.1552610052&company=Google&company=YouTube&jex=ENTRY_LEVEL]]
 
-My ideal job is to work in Google. in this ideal job, I will be working as a cloud engineer
+My ideal job is to work in Google. In my ideal job, I will be working as a cloud engineer, in which I'll basically help customers learn how to use google products while also solving any techincal issue they have. I will also be working in a team, from web developers to system administrators to help Google's business and products grow. What appeals me to this job is that I will be working on the "front lines", meaning that i will be their consultant and their engineering expert in any issues they have. what also appeals is that I will have the opportunity to develop my own programs and assets that assist or benefit the customers while also improve any product feature that google currently has.
 
+Some requirements for this job are:
+-Bachelor's degree in Computer Science, or a related technical subject.
+-Experience in web technologies, such as HTTP, XML, HTML, CSS and JavaScript/AJAX
+-Ability to speak and write in English and Japanese fluently and idiomatically
+-Business savvy with effective customer service skills, demonstrated through project work whilst at university, internships and/or other outside interests.
+Currently, I do not have a bachelor's degree in computer science, but once I have finish my three years in Uni and get my bachelors, I will be able to reach this requirement. Another requirement is to learn japanese which i currently do not know. However, I do have some experience in web technologies, with HTML and javascript which may help me get this job. i also have some customer skills in which i can communicate with them and understand what they need/ require.
+How i will be obtaining those requirements is first to complete my bachelor degree of computer studies. Secondly i will learn more web technologies such as HTTP and CSS while also improving my knowledge for HTML and Javascript. Lastly I can learn japanese and improve my customer skills in the process.
 
+### 4.Personal Profile
